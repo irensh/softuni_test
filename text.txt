@@ -1,2 +1,1 @@
-My first repo
-Update with Tortoise…
+Delete all rows
