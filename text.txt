@@ -1,2 +1,6 @@
 My first repo
+<<<<<<< HEAD
 Updating with Bash…
+=======
+Update with Tortoise…
+>>>>>>> aa9f4b2445065d25f8bf66da268619a98a776437
